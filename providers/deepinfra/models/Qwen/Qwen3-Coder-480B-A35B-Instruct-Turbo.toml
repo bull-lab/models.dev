@@ -11,7 +11,8 @@ open_weights = true
 
 [cost]
 input = 0.3
-output = 1.2
+output = 1
+cache_read = 0.1
 
 [limit]
 context = 262_144
