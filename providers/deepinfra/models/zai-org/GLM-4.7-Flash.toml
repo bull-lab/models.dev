@@ -17,6 +17,7 @@ field = "reasoning_content"
 input = 0.06
 output = 0.40
 
+cache_read = 0.01
 [limit]
 context = 202_752
 # https://deepinfra.com/docs/advanced/max_tokens_limit
