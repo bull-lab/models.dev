@@ -14,7 +14,7 @@ knowledge = "2024-10"
 
 [cost]
 input = 0.8
-output = 0.8
+output = 1.0
 
 [limit]
 context = 32_768

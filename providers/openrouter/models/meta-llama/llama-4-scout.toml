@@ -10,8 +10,8 @@ structured_output = true
 open_weights = true
 
 [cost]
-input = 0.08
-output = 0.3
+input = 0.25
+output = 0.7
 
 [limit]
 context = 327_680

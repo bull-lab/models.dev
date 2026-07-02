@@ -12,9 +12,9 @@ open_weights = false
 knowledge = "2025-04"
 
 [cost]
-input = 0.3
-output = 1.5
-cache_read = 0.06
+input = 0.195
+output = 0.975
+cache_read = 0.039
 
 [limit]
 context = 1_000_000

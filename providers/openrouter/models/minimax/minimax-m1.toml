@@ -9,7 +9,7 @@ last_updated = "2025-06-17"
 open_weights = true
 
 [cost]
-input = 0.40
+input = 0.55
 output = 2.20
 
 [limit]
