@@ -10,9 +10,9 @@ last_updated = "2026-01-28"
 open_weights = true
 
 [cost]
-input = 0.4
-output = 1
-cache_read = 0.2
+input = 0.33
+output = 0.48
+cache_read = 0.16
 
 [limit]
 context = 160_000
